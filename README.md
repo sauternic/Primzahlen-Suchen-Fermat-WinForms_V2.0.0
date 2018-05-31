@@ -21,3 +21,4 @@ Formel:
 a hoch (P-1) Kongruent zu 1 Modulo P
 
 ```
+Ps2: Siehe auch: [Fermat-Lagrange-WinForms-V2.1.0](https://github.com/sauternic/Primzahlen-Suchen-Fermat-Lagrange-WinForms-V2.1.0)
